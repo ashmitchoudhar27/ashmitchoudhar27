@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi there👋<br>I'm Ashmit, I create stuff with code 🧑‍💻 <br>🦾 Languages I have experience with: C, C++ , Java , HTML , CSS , Tailwind <br>🕵️ You can find me on: Linkedln , HackerRank , leetcode<br><br>
 
 
